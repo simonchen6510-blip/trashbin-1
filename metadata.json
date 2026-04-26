@@ -1,0 +1,9 @@
+{
+  "name": "听雨集",
+  "description": "录下每一场雨的声音，AI 生成专属水彩小卡，帮你记住每一场雨。",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
