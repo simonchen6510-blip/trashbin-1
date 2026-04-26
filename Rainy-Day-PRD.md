@@ -3,7 +3,6 @@
 制作阶段: PRD
 技术方案: 录音 + Web Audio API 音频特征提取 → AI 图像生成（DALL·E / Midjourney API）→ 浏览器 Geolocation API 自动记录 → React / Next.js 前端时间线展示。1-2 天可出可演示 Demo。
 核心创意: 录下每一场雨的声音，AI 根据雨的特征自动生成专属画面，配上时间、地点和心情，变成一本「雨的相册」。用声音收藏雨，用画面记住雨。
-灵感来源: 听雨集 (https://www.notion.so/da473253cf474a9a86f8333ae78a7543?pvs=21)
 
 ## 📋 PRD
 
